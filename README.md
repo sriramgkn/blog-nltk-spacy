@@ -1,1 +1,1 @@
-# blog-nltk-spacy
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/1-nltk-spacy/) on NLTK and spaCy. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
